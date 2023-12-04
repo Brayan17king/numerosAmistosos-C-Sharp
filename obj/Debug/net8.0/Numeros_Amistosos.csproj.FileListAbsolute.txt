@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Numeros_Amistosos\bin\Debug\net8.0\Numeros_Amistosos.exe
+C:\Users\user\Desktop\Numeros_Amistosos\bin\Debug\net8.0\Numeros_Amistosos.deps.json
+C:\Users\user\Desktop\Numeros_Amistosos\bin\Debug\net8.0\Numeros_Amistosos.runtimeconfig.json
+C:\Users\user\Desktop\Numeros_Amistosos\bin\Debug\net8.0\Numeros_Amistosos.dll
+C:\Users\user\Desktop\Numeros_Amistosos\bin\Debug\net8.0\Numeros_Amistosos.pdb
+C:\Users\user\Desktop\Numeros_Amistosos\obj\Debug\net8.0\Numeros_Amistosos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Numeros_Amistosos\obj\Debug\net8.0\Numeros_Amistosos.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Numeros_Amistosos\obj\Debug\net8.0\Numeros_Amistosos.AssemblyInfo.cs
+C:\Users\user\Desktop\Numeros_Amistosos\obj\Debug\net8.0\Numeros_Amistosos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Numeros_Amistosos\obj\Debug\net8.0\Numeros_Amistosos.dll
+C:\Users\user\Desktop\Numeros_Amistosos\obj\Debug\net8.0\refint\Numeros_Amistosos.dll
+C:\Users\user\Desktop\Numeros_Amistosos\obj\Debug\net8.0\Numeros_Amistosos.pdb
+C:\Users\user\Desktop\Numeros_Amistosos\obj\Debug\net8.0\Numeros_Amistosos.genruntimeconfig.cache
+C:\Users\user\Desktop\Numeros_Amistosos\obj\Debug\net8.0\ref\Numeros_Amistosos.dll
