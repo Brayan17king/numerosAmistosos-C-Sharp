@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Numeros_Amistosos\\Numeros_Amistosos.csproj": {}
+    "C:\\Users\\Brayan17King\\Downloads\\Numeros_Amistosos-pushUp\\Numeros_Amistosos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Numeros_Amistosos\\Numeros_Amistosos.csproj": {
+    "C:\\Users\\Brayan17King\\Downloads\\Numeros_Amistosos-pushUp\\Numeros_Amistosos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Numeros_Amistosos\\Numeros_Amistosos.csproj",
+        "projectUniqueName": "C:\\Users\\Brayan17King\\Downloads\\Numeros_Amistosos-pushUp\\Numeros_Amistosos.csproj",
         "projectName": "Numeros_Amistosos",
-        "projectPath": "C:\\Users\\user\\Desktop\\Numeros_Amistosos\\Numeros_Amistosos.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Numeros_Amistosos\\obj\\",
+        "projectPath": "C:\\Users\\Brayan17King\\Downloads\\Numeros_Amistosos-pushUp\\Numeros_Amistosos.csproj",
+        "packagesPath": "C:\\Users\\Brayan17King\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brayan17King\\Downloads\\Numeros_Amistosos-pushUp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Brayan17King\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

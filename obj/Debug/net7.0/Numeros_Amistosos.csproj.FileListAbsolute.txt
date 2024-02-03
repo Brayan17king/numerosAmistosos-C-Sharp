@@ -1,0 +1,14 @@
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\bin\Debug\net7.0\Numeros_Amistosos.exe
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\bin\Debug\net7.0\Numeros_Amistosos.deps.json
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\bin\Debug\net7.0\Numeros_Amistosos.runtimeconfig.json
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\bin\Debug\net7.0\Numeros_Amistosos.dll
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\bin\Debug\net7.0\Numeros_Amistosos.pdb
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\obj\Debug\net7.0\Numeros_Amistosos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\obj\Debug\net7.0\Numeros_Amistosos.AssemblyInfoInputs.cache
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\obj\Debug\net7.0\Numeros_Amistosos.AssemblyInfo.cs
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\obj\Debug\net7.0\Numeros_Amistosos.csproj.CoreCompileInputs.cache
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\obj\Debug\net7.0\Numeros_Amistosos.dll
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\obj\Debug\net7.0\refint\Numeros_Amistosos.dll
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\obj\Debug\net7.0\Numeros_Amistosos.pdb
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\obj\Debug\net7.0\Numeros_Amistosos.genruntimeconfig.cache
+C:\Users\Brayan17King\Downloads\Numeros_Amistosos-pushUp\obj\Debug\net7.0\ref\Numeros_Amistosos.dll
