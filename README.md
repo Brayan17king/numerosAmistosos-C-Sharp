@@ -1,38 +1,25 @@
-# Numeros Amistosos
+# Programa para encontrar pares amigables
 
-##### Muchos pares de números amigables son conocidos; sin embargo, sólo uno de los pares (220, 284) tiene valores menores que 1000. El siguiente par está en el rango [1000, 1500].
-##### Desarrolle un programa que permita encontrar dicho par.
+Este programa escrito en C# busca pares de números amigables dentro de un rango específico. Dos números, m y n, se consideran amigables si la suma de sus divisores (excluyendo el propio número) es igual al otro número.
 
-```csharp
-    static int divisor(int x)
-    {
-        int suma = 0;
-        for (int i = 1; i <= (x / 2); i++)
-        {
-            if ((x % i) == 0)
-            {
-                suma = suma + i;
-            }
-        }
-        return suma;
-    }
-    private static void Main(string[] args)
-    {
-        int ri, rj;
-        for (int i = 2; i < 1500; i++)
-        {
-            ri = divisor(i);
+## Ejemplo de pares amigables
 
-            for (int j = i; j < 1500; j++)
-            {
-                rj = divisor(j);
+### Pares menores que 1000
 
-                if (ri == j && rj == i)
-                {
-                    Console.Write(i + "\t" + j + "\tSon numeros amigos\n");
-                }
-            }
-            Console.ReadKey();
-        }
-    }
-```
+- **220 y 284:** Los divisores de 220 son 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 y 110. La suma de estos es 284. Los divisores de 284 son 1, 2, 4, 71 y 142. Su suma es 220.
+
+## Uso del programa
+
+1. **Ejecución del programa:** Compila y ejecuta el programa en un entorno de desarrollo de C# (como Visual Studio) y proporciona el rango de números en el que deseas buscar pares amigables.
+
+2. **Visualización de resultados:** El programa mostrará los pares de números amigables que se encuentren dentro del rango especificado.
+
+## Cómo ejecutar el programa
+
+Asegúrate de tener un entorno de desarrollo de C# configurado. Puedes compilar y ejecutar el programa desde tu entorno de desarrollo preferido.
+
+## Notas
+
+- El programa buscará pares amigables en el rango proporcionado y mostrará los resultados.
+
+¡Espero que esto sea útil para tu programa en C#! Si necesitas más detalles o ajustes, no dudes en modificar el readme según tus necesidades.
